@@ -19,9 +19,7 @@ Technologies Used
 
 How to Run the Project
 
-    Clone the repository:
-
-git clone https://github.com/sanju214/4goodAi_Task2_TaskManager.git
+    Clone the repository: git clone https://github.com/sanju214/4goodAi_Task2_TaskManager.git
 
 Navigate to the project directory:
 
