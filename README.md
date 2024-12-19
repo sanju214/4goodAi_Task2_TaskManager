@@ -36,4 +36,5 @@ Start the development server:
 npm run dev
 
 Open the app in your browser at http://localhost:3000.
-![Alt Text](task-manager/images/image.png)
+![Task Manager Screenshot](./assets/image.png)
+
